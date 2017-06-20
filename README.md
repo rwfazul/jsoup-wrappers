@@ -6,3 +6,6 @@ Check out:<br/>
 https://en.wikipedia.org/wiki/Wrapper_(data_mining)<br/>
 https://en.wikipedia.org/wiki/Gson <br/>
 https://en.wikipedia.org/wiki/Jsoup
+
+
+Creation year: 2016. The parsers may contain some errors presently.
